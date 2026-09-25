@@ -1,0 +1,26 @@
+imageio-ffmpeg
+aiofiles
+aiohttp
+beautifulsoup4
+dnspython
+ffmpeg-python
+hachoir
+httpx[http2]
+motor
+pillow
+psutil
+py-tgcalls==1.2.9
+pykeyboard
+python-dotenv
+pyyaml
+requests
+speedtest-cli
+spotipy
+tgcrypto
+unidecode
+yt-dlp
+youtube-search
+youtube-search-python
+py-yt-search
+pyrogram==2.0.106
+uvloop==0.21.0; sys_platform != "win32"
